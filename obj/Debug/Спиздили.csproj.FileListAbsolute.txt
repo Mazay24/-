@@ -1,0 +1,11 @@
+D:\С#\Тетрис\Спиздили\obj\Debug\Tetris.Form1.resources
+D:\С#\Тетрис\Спиздили\obj\Debug\Спиздили.Properties.Resources.resources
+D:\С#\Тетрис\Спиздили\obj\Debug\Спиздили.csproj.GenerateResource.cache
+D:\С#\Тетрис\Спиздили\obj\Debug\Спиздили.csproj.CoreCompileInputs.cache
+D:\С#\Тетрис\Спиздили\bin\Debug\Спиздили.exe.config
+D:\С#\Тетрис\Спиздили\bin\Debug\Спиздили.exe
+D:\С#\Тетрис\Спиздили\bin\Debug\Спиздили.pdb
+D:\С#\Тетрис\Спиздили\obj\Debug\Спиздили.exe
+D:\С#\Тетрис\Спиздили\obj\Debug\Спиздили.pdb
+D:\С#\Тетрис\Спиздили\obj\Debug\Спиздили.csproj.AssemblyReference.cache
+D:\С#\Тетрис\Спиздили\obj\Debug\Tetris.Кнопка.resources
